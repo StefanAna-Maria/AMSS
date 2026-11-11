@@ -1,0 +1,11 @@
+# Setări personale și date de autentificare: nu intră în repository
+.env
+.env.*
+*.local.json
+.vscode/
+.idea/
+
+# Fișiere de sistem
+.DS_Store
+Thumbs.db
+~$*
