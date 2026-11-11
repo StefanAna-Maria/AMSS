@@ -68,4 +68,4 @@ notăm în [revizuiri/](revizuiri/).
 
 ## Contribuții
 
-*De completat la fiecare etapă, cu linkuri spre ce a lucrat fiecare.*
+Florențiu Mihai a pornit dosarul (structura de foldere, instrucțiunile cursului pentru AI, sinteza de față) și a scris problema și cerințele, în [01-problema/](01-problema/).
