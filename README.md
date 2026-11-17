@@ -69,3 +69,5 @@ notăm în [revizuiri/](revizuiri/).
 ## Contribuții
 
 Florențiu Mihai a pornit dosarul (structura de foldere, instrucțiunile cursului pentru AI, sinteza de față) și a scris problema și cerințele, în [01-problema/](01-problema/).
+
+Andreea Dima a scris modelul domeniului (glosar, concepte, identitate, relații, reguli, decizii cu alternative și exemple), în [02-domeniu/](02-domeniu/), și rezumatul de predare al Fazei 2, în [revizuiri/handoff-faza-2.md](revizuiri/handoff-faza-2.md).
