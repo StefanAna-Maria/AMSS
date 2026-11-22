@@ -71,3 +71,5 @@ notăm în [revizuiri/](revizuiri/).
 Florențiu Mihai a pornit dosarul (structura de foldere, instrucțiunile cursului pentru AI, sinteza de față) și a scris problema și cerințele, în [01-problema/](01-problema/).
 
 Andreea Dima a scris modelul domeniului (glosar, concepte, identitate, relații, reguli, decizii cu alternative și exemple), în [02-domeniu/](02-domeniu/), și rezumatul de predare al Fazei 2, în [revizuiri/handoff-faza-2.md](revizuiri/handoff-faza-2.md).
+
+Luisa Frincu a scris proiectarea sistemului (responsabilități, granițe cu sistemele externe, contracte, invarianți, stări, tranziții și decizii de proiectare), în [03-proiectare/](03-proiectare/), și rezumatul de predare al Fazei 3, în [revizuiri/handoff-faza-3.md](revizuiri/handoff-faza-3.md).
